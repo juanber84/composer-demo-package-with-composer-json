@@ -1,6 +1,6 @@
 # Composer demo package with composer.json
 
-## usage
+## Usage
 
 ```php
 <?php
