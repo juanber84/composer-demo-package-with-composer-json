@@ -1,4 +1,4 @@
-# composer-demo-package-with-composer-json
+# Composer demo package with composer.json
 
 ## usage
 
