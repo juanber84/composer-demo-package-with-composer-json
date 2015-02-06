@@ -10,8 +10,8 @@
             "email": "juanber84@gmail.com"
         }],
     "autoload": {
-        "psr-0": {
-            "Demo\": ""
+        "psr-4": {
+            "Demo\\": ""
         }
     },
     "require": {
