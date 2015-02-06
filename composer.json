@@ -11,9 +11,9 @@
         }],
     "autoload": {
 	"psr-0": {
-		"Demo\\Hello\\": ""
+	    "": ""
 	}
-    },
+    },    
     "require": {
       "php": ">=5.3.0"
     }
