@@ -1,5 +1,5 @@
 {
-    "name": "demo/composer-good",
+    "name": "juanber84/composer-good",
     "type": "library",
     "description": "Demo composer with composer.json",
     "keywords": [ "demo", "php", "composer" ],
